@@ -5,6 +5,7 @@
     </head>
     <body>
        <p>File uploaded successfully</p>
-       <p>File Name: {{name}}</p>
+       <p>Download file</p>
+       <a href="{{ url_for('static', filename='your_new_schedule.xlsx') }}" download>Download Excel file</a>
     </body>
  </html>
