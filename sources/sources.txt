@@ -1,0 +1,30 @@
+file reading of pdfs:
+    https://www.geeksforgeeks.org/working-with-pdf-files-in-python/
+turning a pdf into plaintext:
+    https://www.askpython.com/python/examples/convert-pdf-to-txt
+how to use regular expressions
+    https://www.w3schools.com/python/python_regex.asp
+sorting by date
+    https://www.youtube.com/watch?v=Cn1TTQZ4Opg
+changing the color of cells
+    https://openpyxl.readthedocs.io/en/stable/styles.html
+openpyxl
+    https://openpyxl.readthedocs.io/en/stable/styles.html
+
+
+HTML a download Attribute
+www.w3schools.com
+
+How To Create a Download Link
+www.w3schools.com
+
+render_template() arguments : flask
+www.reddit.com
+
+python - Uploading multiple files with Flask - Stack Overflow
+stackoverflow.com
+
+python - Pass variables to Flask's render_template - Stack Overflow
+stackoverflow.com
+
+https://stackoverflow.com/questions/48425245/what-can-cause-high-buffer-i-o-on-my-clients-server
